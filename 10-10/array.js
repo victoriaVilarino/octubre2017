@@ -16,7 +16,7 @@ var ultimoElemento = notasMusicales.length-1;
 console.log("cant. notas:" + ultimoElemento);		
 
 console.log("el ultimo elemento es:" + notasMusicales[notasMusicales.length-1] );
-
+/////////////////////////////////////////////////////////////////////////////////////////
 var colores= [];
 
 colores[0]= "rojo";
